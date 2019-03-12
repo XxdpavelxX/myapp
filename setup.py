@@ -5,7 +5,7 @@ setup(
     version="1.0",
     url='https://github.com/XxdpavelxX/myapp',
     install_requires=[
-        "boto3==1.9.48",
-        "selenium==3.141.0",
+        "boto3",
+        "selenium",
     ]
 )
